@@ -1,3 +1,4 @@
+//checks whether input is a Palindrome or not 
 import java.util.Scanner;
 public class main
 {
